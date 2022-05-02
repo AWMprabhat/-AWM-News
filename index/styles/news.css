@@ -1,0 +1,23 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid lightsalmon;
+    align-items: center;
+}
+
+input{
+    border-radius: 10px;
+    width: 60%;
+    height: 40px;
+    cursor: pointer;
+}
+#results>div{
+    display: flex;
+    gap: 2%;
+}
+img{
+    width: 500px;
+}
+#detailed_news{
+   margin-top: 20px;
+}

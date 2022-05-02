@@ -1,0 +1,47 @@
+#navbar{
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid red;
+  align-items: center;
+  background-color:saddlebrown;
+  box-shadow:2px 2px 0px 2px red;
+}
+input{
+  border-radius: 10px;
+  width: 60%;
+  height: 40px;
+  cursor: pointer;
+  box-shadow:2px 2px 0px 2px black;
+}
+#results>div{
+  display: flex;
+  gap: 2%;
+  margin-top: 20px;
+  cursor: pointer;
+  box-shadow:2px 2px 0px 2px black;
+}
+img{
+  width: 200px;
+}
+#main{
+  display: flex;
+  gap: 20%;
+  
+}
+#sidebar{
+  border: 1px solid red;
+  height: 380px;
+  width: 200px;
+  background-color:olive;
+  cursor: pointer;
+box-shadow:2px 2px 0px 2px black;
+
+}
+h4{
+  color: blue;
+  margin-left: 10px;
+  padding: 4px;
+  font-size:22px
+}
+
+
